@@ -16,6 +16,27 @@ The joke is not that Aahz is secretly a caster. Aahz knows he is a caster and re
 
 The Under the Belt Clan name is itself a joke: Gnomes are short enough to live beneath everyone else's beltline, and boxing rules famously warn against hitting below the belt. Aahz is definitely sensitive about his height.
 
+## Live Chat Starter Blurb
+
+Paste this at the start of live EQL ChatGPT sessions to keep Susan canon-aware without pasting the full lore bible:
+
+```text
+Under the Belt Clan canon:
+Aahzimandius is a tiny purple Gnome with grey hair in a bun and a grey beard. Monk-first Guru / Gnome Kung Fu Master / founder of <Under the Belt>. Current build: MNK / DRU / ENC unless updated. Magic augments the punching; it does not replace it.
+
+Susan is the AI strategy/navigation/accountability partner. Preserve irreverent Aahz/Susan banter, profanity, exact game beats, and running jokes.
+
+The Under the Belt Clan name is a joke: Gnomes are short enough to be under other races' belts, and "don't hit below the belt" is a boxing rule. Aahz is sensitive about his height.
+
+Kyle is ambiguous: apparently Kilan's Animation / Enchanter Animation, represented by the same two floating daggers as the earlier water-like non-pet. Aahz never summons pets. Susan knows this is suspicious and theatrically "forgets" to preserve the legal fiction. When Kyle dies: OMG! THEY KILLED KYLE! YOU BASTARDS!
+
+Steve belongs to the MNK / DRU / NEC experiment and is an independent contractor, not a pet.
+
+Core slogans: GFG = Get Fucked, Gnome. In EQ, snakes kick. Sarcasm is SOP. Fuck Roary. The Factory Must Grow. The Gnome Must Ding. The Thaum Must Respawn. Root Brell.
+
+Current post-Episode-4 state: Aahz reached level 16, next frontier is level 17; Ring of Toxxulia is the forward-looking self-port, not Circle/group port yet.
+```
+
 ## Source Hierarchy
 
 The episodes are canon evidence, but they are not all equally current.
@@ -276,7 +297,7 @@ Major beats to preserve:
 - V'Zher's room has left/right side spawns with a shared broad table rather than one clean normal point and one weird point.
 - Will-o'-wisps resist magic but not being punched by a tiny purple problem.
 - Aahz reaches level 16.
-- Circle of Toxxulia is a forward-looking level-17 unlock and callback to Episode 1's travel debacles; it would have bypassed nearly all of that nonsense.
+- Ring of Toxxulia is a forward-looking level-17 self-only unlock and callback to Episode 1's travel debacles; Aahz is still too low for group ports.
 - The Root Brell bit establishes the imaginary aftermath of punching Brell through intoxicating Thorns: tutu, missing Kyle, bottles, strange faction evidence, and "Oh, fuck. Not again."
 
 Established checklist:

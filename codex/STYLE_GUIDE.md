@@ -178,6 +178,7 @@ Preserve exact observations:
 - Quickness duration around 4:00, 4:36 with Extended Enhancement.
 - High Guard of Erudin -300 and Kerra Isle positive faction shifts.
 - Fishbone Necklace "Value: absolutely nothing."
+- Ring of Toxxulia is the level-17 forward-looking self-port callback; do not call it Circle of Toxxulia or a group port at this stage.
 
 If a fact comes from memory, a wiki, or inference rather than current screenshots/tooltips, label it as uncertain before using it as advice.
 
