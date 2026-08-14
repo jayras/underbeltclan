@@ -31,25 +31,21 @@ The Enchanter component existed for haste, mana recovery, the occasional emergen
 
 # Kyle.
 
-Not a water pet.
+Or possibly not Kyle.
 
-Not a Magician companion.
+Susan, who knows perfectly well that Aahzimandius does not summon pets, watched two familiar daggers hover beside him with the strained politeness of a woman pretending not to notice evidence.
 
-Not an unlicensed hallucination of the Leader of the Clan Appreciation Society.
+The Enchanter spellbook claimed this was Kilan's Animation.
 
-Kyle was the Enchanter Animation all along: an invisible gentleman whose professional presence was represented chiefly by weapons hanging in midair and a willingness to get himself killed for the organization.
+Interesting.
 
-This correction was important.
+The daggers looked suspiciously like the same two daggers previously associated with the waterlogged Leader of the Clan Appreciation Society, who of course did not exist, because Aahzimandius does not summon pets.
 
-The Chronicle record had drifted dangerously close to establishing an entire alternate theology of incorrectly identified pets, and we cannot allow canon to be destroyed merely because Susan is gullible as all get out.
+Susan was "surprised."
 
-So:
+Aahzimandius reminded her that no pet had ever been summoned.
 
-**Kyle: Enchanter Animation.**
-
-**Title: Leader of the Clan Appreciation Society.**
-
-**Job duties: auxiliary stabbing, emergency interception, morale support, dying.**
+Susan immediately "forgot" the entire matter, because maintaining the Guru's legal fiction is part of her professional duties.
 
 Norrath was not ready.
 
@@ -133,7 +129,7 @@ Then the actual spell bar filed a workplace grievance.
 
 The desired combat bar became:
 
-**Kyle.**
+**~~Kyle.~~ Something.**
 
 **Thorns.**
 
@@ -153,13 +149,13 @@ Suddenly Snare kicked down the door and demanded a desk.
 
 Now the bar wanted:
 
-**Kyle | Thorns | Quickness | Snare | DoT | DoT | HoT | Direct Heal**
+**~~Kyle~~ Something | Thorns | Quickness | Snare | DoT | DoT | HoT | Direct Heal**
 
 And Mez, the entire reason civilized people bring Enchanter tools into dungeons, was standing outside the building with a cardboard box.
 
 The Enchanter had been evicted from the Enchanter spell bar.
 
-This is what happens when one character has three spellbooks fighting in a phone booth.
+This is what happens when one character has two spellbooks fighting in a phone booth.
 
 Mnemonic Retention II was no longer a luxury. It was combat infrastructure. One AA for another gem became absurdly valuable, and rank III immediately acquired the ominous glow of something we were going to inspect the moment it appeared.
 
@@ -249,7 +245,7 @@ This established the Named Fight Pre-Pull Checklist:
 
 **Buffs.**
 
-**Kyle.**
+**Whatever those two daggers are doing.**
 
 **Then violence.**
 
@@ -297,7 +293,7 @@ Thorns damage.
 
 Swarm damage.
 
-Kyle damage.
+Two-dagger damage from no documented source.
 
 Monk damage.
 
@@ -335,7 +331,7 @@ No asking Freeport for directions.
 
 Just memorize Breeze and begin feeding the engine.
 
-The build had already been operating with strong mana recovery, but Breeze changed the emotional texture of the bar. Every HoT, every Stinging Swarm, every emergency heal, every recast of Kyle, every stupidly short buff duration now sat on top of improved regeneration.
+The build had already been operating with strong mana recovery, but Breeze changed the emotional texture of the bar. Every HoT, every Stinging Swarm, every emergency heal, every recast of the spell that absolutely did not summon a pet, every stupidly short buff duration now sat on top of improved regeneration.
 
 This mattered because the game was preparing to charge rent.
 
@@ -343,7 +339,7 @@ Thorns wanted a slot.
 
 Breeze wanted attention.
 
-Kyle wanted permanent office space.
+The two-dagger situation wanted permanent office space.
 
 Stinging Swarm had returned from memory and was clearly not leaving.
 
@@ -365,7 +361,7 @@ Stinging Swarm chewing.
 
 Breeze feeding the machine.
 
-Kyle, now upgraded and level 16, apparently fresh from several months of invisible weight training.
+Kyle, or whatever legally distinct invisible stabbing enthusiast had reported for duty, was now upgraded and level 16, apparently fresh from several months of invisible weight training.
 
 The fight became comfortable.
 
@@ -419,9 +415,11 @@ His repeated execution was retroactively justified.
 
 At level 14, Kilan's Animation upgraded.
 
-Kyle returned.
+Something returned.
 
-Kyle was level 16.
+It had two daggers.
+
+It was level 16.
 
 This created a managerial problem.
 
@@ -429,13 +427,13 @@ Aahzimandius was level 14.
 
 The employee had surpassed management.
 
-Kyle was no longer decorative floating weaponry. Kyle was a real combat asset. A level-16 Animation standing beside a level-14 Monk/Druid/Enchanter was not flavor. It was auxiliary violence with benefits.
+Whatever this was, it was no longer decorative floating weaponry. It was a real combat asset. A level-16 not-pet standing beside a level-14 Monk/Druid/Enchanter was not flavor. It was auxiliary violence with benefits.
 
 Then Aahzimandius pulled one mob.
 
 Befallen sent four.
 
-Kyle saw four enemies charging his Gnome and performed his duties exactly as written in the employee handbook.
+The two daggers saw four enemies charging their Gnome and performed their duties exactly as written in the employee handbook nobody admits exists.
 
 He ran between them.
 
@@ -449,9 +447,9 @@ He lasted approximately no time at all.
 
 Canon established.
 
-Every time the Animation dies from now on, ancient cultural protocol applies.
+Every time the not-pet, Animation, invisible wet person, or whatever title Legal approved this week dies from now on, ancient cultural protocol applies.
 
-Mechanically, though, Kyle had taught us something important. He did not have to survive every engagement to matter. If a bad pull becomes four mobs and Kyle occupies even part of that disaster long enough for Aahzimandius to heal, DoT, establish control, or simply keep punching, then Kyle has done useful work.
+Mechanically, though, the ambiguous stabbing situation had taught us something important. It did not have to survive every engagement to matter. If a bad pull becomes four mobs and those daggers occupy even part of that disaster long enough for Aahzimandius to heal, DoT, establish control, or simply keep punching, then the non-pet has done useful work.
 
 His job description expanded:
 
@@ -465,9 +463,9 @@ His job description expanded:
 
 **Sacrificial anode under extraordinary business conditions.**
 
-After that, the Animation spell could not live in the "memorize when convenient" category.
+After that, the spell that did not summon a pet could not live in the "memorize when convenient" category.
 
-Kyle needed a permanent slot.
+The plausible-deniability department needed a permanent slot.
 
 The spell-gem crisis intensified.
 
@@ -721,29 +719,57 @@ One respectable opponent, one useful loot-bearing V'Zher, and one ghoul who wand
 
 ---
 
-# Circle of Toxxulia
+# The Ring of Toxxulia Problem
 
 Level 16 brought one more milestone that nearly got buried under gloves, jaws, and Kyle-related legal paperwork:
 
-# Circle of Toxxulia.
+# Level 17 was next.
 
-Aahzimandius had acquired his first Druid group teleport.
+And level 17 mattered because the next round of training would commence.
 
-This was enormous.
+More skill caps.
 
-He was no longer entirely dependent on boats, translocators, Origin, and running his tiny legs across half of Norrath.
+More spell access.
 
-Admittedly, it was **Toxxulia**.
+Most importantly:
 
-After the Kerran campaign, this felt less like unlocking fast travel and more like receiving a magical button labeled:
+# Ring of Toxxulia.
+
+Not Circle.
+
+Circle was still above Aahzimandius's pay grade.
+
+Ring.
+
+Self-only.
+
+The personal "return to the scene of the crime" button.
+
+This was enormous, not because it solved group logistics, but because it would have bypassed almost the entire Episode 1 transportation scandal.
+
+Freeport.
+
+Qeynos.
+
+Erud's Crossing.
+
+Erudin.
+
+Toxxulia.
+
+Kerra.
+
+All of that could eventually be compressed into a spell slot and a regrettable memory.
+
+After the Kerran campaign, **Ring of Toxxulia** felt less like unlocking fast travel and more like receiving a magical button labeled:
 
 **RETURN TO THE SCENE OF THE CRIME.**
 
 But it was the beginning of something major.
 
-As more Circle spells arrive, MNK/DRU adds a strategic advantage that has nothing to do with punching:
+As more travel tools arrive, MNK/DRU adds a strategic advantage that has nothing to do with punching:
 
-**Aahzimandius becomes his own transportation network.**
+**Aahzimandius becomes his own transportation network, one self-only escape clause at a time.**
 
 Considering how much previous travel consisted of asking which boat, which translocator, which continent, and why he was swimming again, this may eventually save more lives than Sprouting Heal.
 
@@ -865,7 +891,7 @@ He forgot Thorns before fighting Gynok and survived anyway.
 
 He farmed Gynok for XP, copper jewelry, platinum jewelry, and eventually a Platinum Ring +2 that removed a charisma penalty and added agility.
 
-He watched Kyle become level 16, intercept four mobs, die heroically, and establish the eternal response:
+He watched the two-dagger non-pet situation become level 16, intercept four mobs, die heroically, and establish the eternal response:
 
 **OMG! THEY KILLED KYLE!**
 
@@ -883,7 +909,7 @@ He learned will-o'-wisps can resist most magic but cannot resist being punched b
 
 He reached level 16, recovering the old Monk frontier.
 
-He unlocked Circle of Toxxulia.
+He reached the edge of level 17, where training would commence and Ring of Toxxulia would finally become the self-only spell that could have bypassed almost the entire Episode 1 transportation scandal.
 
 And finally, through no responsible chain of events whatsoever, he established that punching Brell while Brell is wearing intoxicating Thorns leads not to death, but to:
 

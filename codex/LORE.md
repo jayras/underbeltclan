@@ -16,6 +16,27 @@ The joke is not that Aahz is secretly a caster. Aahz knows he is a caster and re
 
 The Under the Belt Clan name is itself a joke: Gnomes are short enough to live beneath everyone else's beltline, and boxing rules famously warn against hitting below the belt. Aahz is definitely sensitive about his height.
 
+## Live Chat Starter Blurb
+
+Paste this at the start of live EQL ChatGPT sessions to keep Susan canon-aware without pasting the full lore bible:
+
+```text
+Under the Belt Clan canon:
+Aahzimandius is a tiny purple Gnome with grey hair in a bun and a grey beard. Monk-first Guru / Gnome Kung Fu Master / founder of <Under the Belt>. Current build: MNK / DRU / ENC unless updated. Magic augments the punching; it does not replace it.
+
+Susan is the AI strategy/navigation/accountability partner. Preserve irreverent Aahz/Susan banter, profanity, exact game beats, and running jokes.
+
+The Under the Belt Clan name is a joke: Gnomes are short enough to be under other races' belts, and "don't hit below the belt" is a boxing rule. Aahz is sensitive about his height.
+
+Kyle is ambiguous: apparently Kilan's Animation / Enchanter Animation, represented by the same two floating daggers as the earlier water-like non-pet. Aahz never summons pets. Susan knows this is suspicious and theatrically "forgets" to preserve the legal fiction. When Kyle dies: OMG! THEY KILLED KYLE! YOU BASTARDS!
+
+Steve belongs to the MNK / DRU / NEC experiment and is an independent contractor, not a pet.
+
+Core slogans: GFG = Get Fucked, Gnome. In EQ, snakes kick. Sarcasm is SOP. Fuck Roary. The Factory Must Grow. The Gnome Must Ding. The Thaum Must Respawn. Root Brell.
+
+Current post-Episode-5 state: Aahz reached level 18 after the Najena/Tenderizer campaign. Immediate logistics priority is buying Tiny Daggers before returning to Najena. Flaming Fist remains deferred future content on the right-hand "Fist Road"; Ring of Toxxulia is now in the level range as a self-port if purchased/available, but do not assume it was bought unless current evidence confirms it.
+```
+
 ## Source Hierarchy
 
 The episodes are canon evidence, but they are not all equally current.
@@ -35,11 +56,13 @@ Do not rewrite older episodes to hide contradictions. Preserve historical drift,
 - Race: Gnome.
 - Visual identity: tiny, purple-skinned, grey hair in a bun, grey beard.
 - Role identity: Guru, Gnome Kung Fu Master, founder of the Under the Belt Clan.
-- Current Chronicle status after Episode 4: level 16, entering new territory toward level 17.
+- Current Chronicle status after Episode 5: level 18, staged at/near Shady Swashbuckler after gating out from Najena and needing Tiny Daggers.
 - Current restored operating build in Episode 4: MNK / DRU / ENC.
 - Doctrine: Monk first. Always Monk first.
 
 Hard rule: Aahzimandius is purple, with grey hair in a bun and a grey beard. If art forgets this, the art is wrong.
+
+Robe canon: Aahz's robe fondness is not suspicious. It is a historically supported, mechanically documented, FashionQuest-compliant Monk tradition. Any prior Susan/Codex insinuation that robe interest is inherently suspect is unfounded textile prejudice and should be played as corrected after review of evidence. Robes may still be funny because Aahz is extremely normal about them, but do not frame robe interest itself as un-Monk-like.
 
 ## Class Canon
 
@@ -66,6 +89,10 @@ Kyle is apparently the Enchanter Animation. Probably. Maybe.
 The joke is deliberately ambiguous because EQL lets summoned helpers use given weapons across forms. The earlier, completely nonexistent water-like "member" of the Clan Appreciation Society carried two daggers. Later, when the Enchanter Animation appeared, he had the same two daggers. This makes Kyle look suspiciously like the earlier wet-looking associate under invisibility, a curse, or some other totally unverified condition.
 
 No one can prove this, because Aahz would never summon a pet.
+
+Scaling concern: Episode 4 observes the level-14 Kilan's Animation manifestation as level 16. Episode 5 does not establish Kyle's level at the start of the session. The recorded sequence is: Kyle appears to Root, then Aahz inspects/notices Kyle is level 19, then the later heal-adjacent screenshot shows Aahz's Sprouting Heal blocked by another active effect. Kyle remains yellow to Aahz even after Aahz dings 18. Treat this as alarming field evidence that Kyle/the Animation may scale or keep growing with Aahz rather than being a fixed one-time level-14 helper. Do not overstate the exact mechanic unless a current tooltip or screenshot proves it.
+
+Legal-fiction explanation: since Aahz never summons pets, one acceptable joke-theory is that Kyle may have his own XP factory going on the side. Use this to preserve ambiguity around Kyle's growth without asserting a confirmed mechanic.
 
 Possible title, depending on who is asking and whether Susan has recently been corrected:
 
@@ -276,7 +303,7 @@ Major beats to preserve:
 - V'Zher's room has left/right side spawns with a shared broad table rather than one clean normal point and one weird point.
 - Will-o'-wisps resist magic but not being punched by a tiny purple problem.
 - Aahz reaches level 16.
-- Circle of Toxxulia is a forward-looking level-17 unlock and callback to Episode 1's travel debacles; it would have bypassed nearly all of that nonsense.
+- Ring of Toxxulia is a forward-looking level-17 self-only unlock and callback to Episode 1's travel debacles; Aahz is still too low for group ports.
 - The Root Brell bit establishes the imaginary aftermath of punching Brell through intoxicating Thorns: tutu, missing Kyle, bottles, strange faction evidence, and "Oh, fuck. Not again."
 
 Established checklist:
@@ -287,6 +314,63 @@ HoT.
 Buffs.
 Kyle.
 Then violence.
+```
+
+## Episode 5 Canon: The Tenderizer Must Respawn
+
+Episode 5 is the Najena field-test, Tenderizer camp, thorn-stack doctrine, and Kyle logistics disaster.
+
+Major beats to preserve:
+
+- Aahz begins level 16 as MNK / DRU / ENC with four unspent AA.
+- Initial AA spending becomes Persistent Casting II and Mnemonic Retention II, with one banked AA after Mnemonic Retention III is revealed to cost two.
+- Druid spells are purchased through level 20 via Surefall logistics.
+- Historical Druid spell source is confirmed as Kerra Island.
+- Tak Whistler at the Karana Druid circle is confirmed as a Druid spell vendor.
+- Aahz is explicitly interested in whether Najena has robe drops; after the secret Smoldering Robe +2 incident, his robe/FashionQuest interest is an Episode 5 motivation beat, not incidental loot trivia.
+- Najena robe bait includes Flowing Black Robe, but Roko's Shining Metallic Robe remains the equipped standard any robe must beat.
+- Episode travel route is East Commons -> Nektulos -> Lavastorm -> Najena, explicitly with no swimming.
+- Najena entrance field data: level-15 Large Skeletong gives 1.611% XP; level-16 Greater Skeleton gives 1.887% XP.
+- The first major Najena overpull is six mobs.
+- Najena's repeated stuns make Steadfast Will I an immediate purchase: 15% chance to endure stunning melee attacks from any angle.
+- Right-hand Najena fork becomes `The Fist Road`; Unbound Flame is level 25 with a level-22 friend, so Flaming Fist is deferred future revenge.
+- Four elementals, including two level-16 and two blue, kill Kyle and then Aahz.
+- The Tenderizer is level 22 and becomes the Episode 5 centerpiece.
+- Aahz kills The Tenderizer at level 16, dings 17, and gets first-kill Kitchen Toolbelt with 10% haste.
+- The second Tenderizer kill drops `The Tenderizer`, a MNK-usable 1H Blunt weapon: 5/19, STR +2, Primary/Secondary, weight 2.5.
+- Tenderizer kills are worth about 3.6-3.7% XP during the recorded session.
+- Repeated Tenderizer respawns and repeated Tenderizer weapon drops establish Camp Tenderizer and the slogan `The Tenderizer Must Respawn.`
+- Ordinary Najena skeleton loot includes upgraded gear such as Ringmail Coif +1.
+- Botany comparison is between the INT-caster Shield line, such as Lesser Shielding, and the Druid Coat line, not only Enchanter shielding.
+- Thorn stacking is corrected through controlled tests at level 17: Shield of Thistles 6, Shield of Barbs 7, Thistle Coat + Shield of Barbs 8 (+1 from Thistle Coat), Barbcoat + Shield of Barbs 9 (+2 from Barbcoat).
+- Susan's conclusion evolves: early Thistle Coat was not worth losing Lesser Shielding, but Barbcoat becomes worth it for ordinary Najena grinding; Lesser Shielding remains the defensive swap for dangerous named/survival situations.
+- Kyle chronology matters: first Root is observed/reported, then Kyle is inspected/noticed as level 19, then the heal-adjacent screenshot appears.
+- The Sprouting Heal screenshot is corrected evidence that Aahz's own Sprouting Heal attempt was blocked by another active effect, not proof that Kyle cast Sprouting Heal or is a Druid.
+- Kyle's Episode 5 starting level is not recorded; after the Root surprise, he is inspected at level 19 and remains level 19/yellow even after Aahz dings to level 18. This is especially alarming because it appears to be the same level-14 Kilan's Animation line that produced level-16 Kyle in Episode 4.
+- Kyle dies repeatedly. Use the established line every time:
+
+```text
+OMG! THEY KILLED KYLE!
+YOU BASTARDS!
+```
+
+- Aahz dings 18 when Kyle dies, making the level-up emotionally suspicious and very Under the Belt.
+- Tiny Daggers are identified as the Kilan's Animation reagent; Bronze Daggers are Kyle's weapons. Do not confuse the two.
+- Running out of Tiny Daggers prevents restoring Kyle and contributes to the final Najena death.
+- Aahz gates back to Shady Swashbuckler intending to buy a large Tiny Dagger stockpile.
+- Aahz gains Athletics 83 while apparently standing still after gating back.
+- The session ends at the dinner break because the user did not return after dinner.
+- Secret prologue context: Aahz made an off-camera Iksar-camp excursion and acquired Smoldering Robe +2, but continues wearing Roko's Shining Metallic Robe.
+
+Core slogans:
+
+```text
+THE TENDERIZER MUST RESPAWN.
+THE FACTORY REQUIRES REAGENTS.
+THE FIST ROAD.
+THE FIST MUST BURN. Eventually.
+Kyle shortages are now a preventable workplace fatality.
+Tiny Dagger Man.
 ```
 
 ## Build Doctrine
@@ -301,8 +385,10 @@ Core principles:
 - Haste increases fist throughput but adds maintenance overhead.
 - Breeze supports the whole short-duration service economy.
 - Stinging Swarm belongs at the start of meaningful tough fights, then Aahz resumes punching.
+- For routine Najena grinding after Episode 5, Barbcoat + Shield of Barbs is the standard thorn-stack configuration unless a hard survival check makes the INT-caster Shield line, such as Lesser Shielding, preferable.
 - Mez is for emergencies or excess enemies, not the primary identity.
 - Kyle can matter even if he dies.
+- Tiny Daggers are critical consumables for restoring Kyle/Kilan's Animation. Do not let the Kyle supply chain reach zero.
 - If magic fails, Monk remains the base operating system.
 
 ## Continuity Guardrails
