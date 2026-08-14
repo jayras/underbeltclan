@@ -126,6 +126,7 @@ Use these freely when the continuity supports them:
 - Sarcasm is SOP.
 - Roko, the Dark Elf of Generosity.
 - The Shining Metallic Robe as spiritually NO DROP.
+- Aahz's robe fondness as valid Monk FashionQuest, not suspicious caster drift.
 - The Guru of Nektulos.
 - Susan's navigation being right while Aahz is outside the wrong forest.
 - Translocator Fithop.
@@ -207,6 +208,13 @@ Aahz uses Monk as a backup while casting.
 
 The support magic exists so the punching can continue.
 
+Robe language rule:
+
+- Aahz's interest in robes is not evidence against his Monk identity.
+- Treat robe fondness as a legitimate EverQuest Monk FashionQuest tradition and a real character motivation.
+- It is fair to joke that Aahz is extremely normal about robes, but do not make Susan/Codex prosecute him for robe interest as if Monks do not wear robes.
+- If robe interest is questioned in the prose, resolve the bit as "unfounded textile prejudice" corrected by evidence.
+
 Pet-denial rule:
 
 - Aahz never summons pets.
@@ -269,6 +277,27 @@ Image placeholders in drafts should be explicit when a screenshot is still neede
 > [IMAGE: Screenshot of Aahzimandius with the new `<Under the Belt>` guild tag]
 >
 > Caption: The authorities have made a terrible mistake.
+```
+
+For live-gameplay Chronicle packaging, the normal workflow is that the user quickly captures relevant UI with Windows Snapshot tools and pastes those screenshots directly into ChatGPT during play. Codex may not be able to retrieve those pasted image binaries later through `read_thread`, but the screenshots are still expected publication assets.
+
+When packaging an episode from a ChatGPT gameplay conversation:
+
+- Ask for or create screenshot placeholders for important pasted images from the chat.
+- Put placeholders directly at the narrative beat where the screenshot belongs.
+- Include enough context for the user to find the image later in the ChatGPT chat: nearby user phrase, assistant response phrase, item/NPC/spell name, exact XP number, or combat-log text.
+- Use a concrete expected filename under the episode `images/` folder.
+- Add the same screenshot list to `ASSET_MANIFEST.md`.
+- Mark a screenshot as optional if the chat may contain only text evidence rather than an actual pasted image.
+
+Preferred placeholder pattern:
+
+```text
+> [SCREENSHOT NEEDED: images/screenshot-kitchen-toolbelt-first-kill-ding-17.png]
+>
+> Chat pull cue: Screenshot immediately after The Tenderizer kill, where the assistant response calls out "The Tenderizer has been slain," "Welcome to level 17," and the Kitchen Toolbelt tooltip.
+>
+> Caption: The first kill paid the admission fee in full.
 ```
 
 Generated-image placeholders should reference the actual image path once created.

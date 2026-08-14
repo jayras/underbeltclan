@@ -39,6 +39,10 @@ Episode 4:
 
 - `episode-4/images/root-brell-aahzimandius.png`
 
+Episode 5:
+
+- `episode-5/images/episode-5-hero-tenderizer-factory.png`
+
 Screenshots and UI captures are also part of the publication language, especially for proof-of-absurdity beats such as tooltips, faction messages, guild tags, and quest text.
 
 Episode 1 had no images. When preserving or republishing Episode 1, do not add image placeholders. Retrospective art can be commissioned later, but it should be intentional and labeled as retrospective.
@@ -129,6 +133,25 @@ Useful recurring image concepts:
 - Kyle's floating weapons intercepting a bad pull.
 - Gynok's increasingly sad jewelry kiosk.
 - V'Zher's jaw-icon sword as an orthodontic armory gag.
+
+## Najena Palette And Motifs
+
+Najena visuals should emphasize:
+
+- Dark stone dungeon rooms, torchlight, kitchens/workrooms, skeletons, elementals, and cramped high-risk pulls.
+- Aahz as tiny, purple, grey-bunned, grey-bearded, and stubbornly Monk-first even when wearing shiny caster-legal robes.
+- Green thorn magic around the Gnome when the joke is about damage-shield doctrine.
+- The Tenderizer as a level-22 named-camp centerpiece: meat-tenderizer hammers, Kitchen Toolbelt, repeated weapon drops, and factory repetition.
+- Kyle as two floating bronze daggers or a faint invisible assistant nearby; preserve ambiguity and do not turn him into a cleanly defined pet.
+- Tiny Daggers as reagent logistics: empty pouch, spilled miniature daggers, or vendor/supply-chain evidence when the joke is the Kyle shortage.
+
+Useful recurring image concepts:
+
+- Aahz holding The Tenderizer after killing The Tenderizer.
+- Aahz wearing the Kitchen Toolbelt while surrounded by repeated Tenderizer hammers.
+- Kyle's floating daggers hovering behind Aahz as if supervising without admitting employment status.
+- Aahz at Shady Swashbuckler with an absurd Tiny Dagger purchase.
+- Aahz standing still after disaster while the UI reports Athletics 83.
 
 ## Root Brell Visuals
 
