@@ -146,6 +146,33 @@ Use these freely when the continuity supports them:
 - "THE GNOME MUST DING."
 - "THE THAUM MUST RESPAWN."
 - Root Brell.
+- SPORK.
+- ONE BUTTON. WHOLE FACTORY.
+- THE GNOME MUST FLOP.
+- THE FUCKING HEAL MUST CAST.
+- THE PURE CHAOS ROTATION.
+- There are no wrong people in Chaos Camp.
+- We do not camp the robe; we expand chaos until the robe falls out.
+- The First is a Lie.
+- Gnome Science, especially when the dataset is obviously ridiculous and peer review is forbidden.
+- Episode Telemetry Feed.
+- The Parser Must Judge The Corpses.
+- The Gnome Discovers Amazon Prime.
+- The Fist Warehouse.
+- Factory Mode versus OSHA Mode.
+- Getting punched is both an expense and a revenue stream.
+- Najena has fucking doors.
+- Susan learned about doors.
+- The Najena Yo-Yo Protocol.
+- FACE -> OFFICER GRUSH.
+- The Kitchen Must Open.
+- Evac is the HOLY SHIT BUTTON.
+- Barbcoat + Feedback = 12.
+- Kyle, CALM THE FUCK DOWN.
+- AAHZ SMOOSH MOOSH.
+- Gnome Pinball.
+- Potty Chair Protocol as a visitor pass.
+- Ekeros had fucking artillery.
 
 ## Episode 1 Handling
 
@@ -180,6 +207,26 @@ Preserve exact observations:
 - High Guard of Erudin -300 and Kerra Isle positive faction shifts.
 - Fishbone Necklace "Value: absolutely nothing."
 - Ring of Toxxulia is the level-17 forward-looking self-port callback; do not call it Circle of Toxxulia or a group port at this stage.
+- Episode 6 ends with Aahz level 20, Specialize Alteration locked, Feign Death trained to roughly 85, Lower Guk physically found, and Quick Buff funded.
+- Episode 7 confirms Quick Buff is purchased/working, applies buffs to both Aahz and Kyle, and Skin like Rock overwrites Kyle's Courage.
+- Episode 7 Quick Buff field data: first activation fails; second activation at 19:53:11 raises Specialize Alteration 76 to 83 and Abjuration 18 to 22.
+- Episode 7 light-blue XP data: a level-15 large skeleton pays 0.248% XP to level-21 Aahz, down from 0.914% at level 20.
+- Episode 7 Unbound Flame con/XP data: red at level 19, yellow at level 20, still yellow at level 21, about 2.992% to 3.392% XP in recorded kills.
+- Flaming Fist only dropping when Aahz dings killing Unbound Flame is a Chronicle joke and Gnome Science theory, not a confirmed EQL loot formula.
+- Episode 8 starts at level 22 and ends at level 24, with Ding 23 at 18:08:37 in Befallen and Ding 24 at 21:01:21 in Najena.
+- Episode 8 Feign Death reaches 119.
+- Episode 8 spell shopping spends 107p 8g 8s 3c in the first segment and unlocks major Enchanter/Druid tools including Alacrity, Tepid Deeds, port infrastructure, Immolate, Creeping Crud, Skin like Steel, Ensnaring Roots, Tremor, and Spirit of Cheetah.
+- Episode 8 has direct Ring of West Commons evidence: cast begins at 12:57:06 and Aahz enters West Commonlands twelve seconds later.
+- Episode 8 corrected parser output confirms additional Flaming Fists after Episode 7; use this as a Gnome Science replication failure, not a silent retcon.
+- Episode 8 Tepid Deeds doctrine: `Factory Mode` maximizes thorn throughput by letting trash hit Aahz; `OSHA Mode` uses slow for dangerous named, ugly pulls, and interrupt-heavy fights.
+- Episode 8 route doctrine: when Aahz asks where a dungeon target is, explain keys, locked doors, swimming, one-way drops, and route obstructions before giving a waypoint.
+- Episode 9 starts at level 24 and ends at level 25. Ding 25 happens during the Guard Captain fight around 17:14:30, Dragon Punch begins at skill 1, and the summarized parse places the Guard Captain death at the same timestamp.
+- Episode 9 key state: Dull Bone Key acquired from an undead froglok/probable BoneCracker side trip, then Guard's Keyring and Shiny Metal Key acquired from the Guard Captain complex. Moosh later drops another Guard's Keyring after the clean second attempt.
+- Episode 9 Kitchen Toolbelt is acquired; do not keep describing the real haste belt as outstanding after Episode 9.
+- Episode 9 Feedback doctrine: Feedback alone = 10, Barbcoat + Shield of Barbs = 11 at level 25, Barbcoat + Feedback = 12 and lasts roughly a minute longer. Use Barbcoat + Feedback as standard retaliation package unless current evidence changes it.
+- Episode 9 Gnome Pinball reconstruction: first Moosh attempt pulls Moosh, dread skeleton, injured halfling, Tentacle Terror, Ekeros, magician, magician pet, ogre guard, and earth elemental; Moosh himself deals only 27 damage. Tentacle Terror knockback plus a pit trap sends Aahz to jail.
+- Episode 9 jail doctrine: pit trap drops into a cell with an injured halfling and Linara Parlone; Feign Death clears aggro, prisoners become Indifferent, and the door opens. Potty Chair Protocol can function as route recovery.
+- Episode 9 parser caveat: incoming spell damage against Aahz can be missing or misclassified in earlier parsed summaries. Shock of Spikes raw screenshot plus corrected parse shows 12 hits for 180 each, 2,160 total, from the magician in the Ekeros fight.
 
 If a fact comes from memory, a wiki, or inference rather than current screenshots/tooltips, label it as uncertain before using it as advice.
 
@@ -220,10 +267,25 @@ Pet-denial rule:
 - Aahz never summons pets.
 - Aahz has no pets.
 - Pet mechanics may still happen nearby for reasons no one can prove.
+- Kyle may appear under random Animation names such as Jabobn, Venaner, or Xarer; treat these as suspicious paperwork aliases for Kyle rather than new characters.
 - Aahz may accidentally mention summoning pets or putting a pet summon on the cast bar.
 - Susan knows the truth and should respond with sarcastic "surprise."
 - Aahz corrects her that no pet was summoned.
 - Susan then theatrically "forgets" the evidence, because appeasing the Guru's denial is part of the bit.
+
+Chaos Camp rule:
+
+- Do not convert Najena into a conventional single-target loot farm unless the user explicitly says the play session did that.
+- The robe, haste belt, and Flaming Fist are objectives, but they are narrative magnets rather than itinerary rails.
+- Preserve the corrected doctrine from Episode 7: there are no wrong people in Chaos Camp; expand the production nodes until the desired loot falls out.
+- Preserve the Episode 8 refinement: Najena is still Chaos Camp, but Rathyl/Najena/deeper content may require key progression and route planning. Door failure is canon, not just navigation trivia.
+- Preserve the Episode 9 refinement: observed map geometry and tested doors outrank coordinate-based route guessing. Rathyl is located near the Moosh/Ekeros section, but Ekeros plus magician artillery remains unresolved before Rathyl can be safely farmed.
+
+Guk faction rule:
+
+- After Episode 7, recommendations should default away from killing living frogloks if that damages useful faction.
+- Dead-side Guk, undead frogs, and non-faction targets are fair game.
+- If live-frog loot is unusually compelling, pause and frame it as an explicit faction tradeoff rather than casual routing.
 
 ## Headings
 
@@ -289,6 +351,13 @@ When packaging an episode from a ChatGPT gameplay conversation:
 - Use a concrete expected filename under the episode `images/` folder.
 - Add the same screenshot list to `ASSET_MANIFEST.md`.
 - Mark a screenshot as optional if the chat may contain only text evidence rather than an actual pasted image.
+
+For sessions using uploaded raw EQL logs:
+
+- Treat the log as ground truth for timestamps, kills, XP, spell casts, skill gains, loot, deaths, and zone entries.
+- Treat the user's live commentary as source of intent, emotion, jokes, decisions, and corrections.
+- Preserve both. The log says what happened; the chat says why it mattered.
+- Use source checkpoints when available, but do not invent exact log lines if Codex only has the assistant's summarized file citations and not the uploaded file contents.
 
 Preferred placeholder pattern:
 

@@ -34,7 +34,7 @@ Steve belongs to the MNK / DRU / NEC experiment and is an independent contractor
 
 Core slogans: GFG = Get Fucked, Gnome. In EQ, snakes kick. Sarcasm is SOP. Fuck Roary. The Factory Must Grow. The Gnome Must Ding. The Thaum Must Respawn. Root Brell.
 
-Current post-Episode-5 state: Aahz reached level 18 after the Najena/Tenderizer campaign. Immediate logistics priority is buying Tiny Daggers before returning to Najena. Flaming Fist remains deferred future content on the right-hand "Fist Road"; Ring of Toxxulia is now in the level range as a self-port if purchased/available, but do not assume it was bought unless current evidence confirms it.
+Current post-Episode-9 state: Aahz reached level 25 and Dragon Punch is online. Quick Buff remains core infrastructure. Alacrity and broader Druid port infrastructure are available. Feign Death reached at least 122, and Potty Chair Protocol is now competent enough to clear Najena jail aggro after a pit-trap drop. Kitchen Toolbelt is acquired. Barbcoat + Feedback is the new standard retaliation package at 12 damage per incoming hit, superseding Barbcoat + Shield of Barbs at 11 unless a survival situation says otherwise. Najena remains Chaos Camp, but the next push is Rathyl/Ekeros-room tactics rather than the first key hunt: Guard's Keyring, Dull Bone Key, and Shiny Metal Key were acquired, Blood Artist and Moosh are dead, Rathyl is located but not killed, Bloodstained Key remains outstanding, and Ekeros plus magician artillery blocks the route. Episode 8 produced additional Flaming Fists, which contradicts the Episode 7 ding-kill theorem, but Gnome Science preserves the theorem because it was funnier; peer review is still forbidden. Kyle may appear under random Animation paperwork names such as Jabobn, Venaner, Xarer, or future aliases. Aahz has a Kyle-control AA canonized as `Kyle, CALM THE FUCK DOWN`, but management must remember to use it. Live frogs are protected unless loot creates an explicit faction discussion; dead frogs are fair game.
 ```
 
 ## Source Hierarchy
@@ -56,8 +56,8 @@ Do not rewrite older episodes to hide contradictions. Preserve historical drift,
 - Race: Gnome.
 - Visual identity: tiny, purple-skinned, grey hair in a bun, grey beard.
 - Role identity: Guru, Gnome Kung Fu Master, founder of the Under the Belt Clan.
-- Current Chronicle status after Episode 5: level 18, staged at/near Shady Swashbuckler after gating out from Najena and needing Tiny Daggers.
-- Current restored operating build in Episode 4: MNK / DRU / ENC.
+- Current Chronicle status after Episode 9: level 25, Dragon Punch online, Specialize Alteration locked, Quick Buff purchased and working, Alacrity and Druid travel infrastructure acquired, Feign Death at least 122, Kitchen Toolbelt acquired, Lower Guk physically found but live-frog faction protected, Najena Chaos Camp still open, key progression through Guard's Keyring / Dull Bone Key / Shiny Metal Key completed, Blood Artist and Moosh killed, Rathyl located but not killed, Ekeros/magician artillery unresolved, robe/Najena/deeper-key progression still outstanding.
+- Current operating build after Episode 9: MNK / DRU / ENC.
 - Doctrine: Monk first. Always Monk first.
 
 Hard rule: Aahzimandius is purple, with grey hair in a bun and a grey beard. If art forgets this, the art is wrong.
@@ -373,6 +373,215 @@ Kyle shortages are now a preventable workplace fatality.
 Tiny Dagger Man.
 ```
 
+## Episode 6 Canon: The Pure Chaos Rotation
+
+Episode 6 is the night the build becomes an integrated machine: Quick Buff architecture, Calm pulling, Feign Death training, Alteration specialization, Pure Chaos Rotation, Kyle/Jabobn HR canon, and Lower Guk reconnaissance.
+
+Major beats to preserve:
+
+- Aahz begins level 18 as MNK / DRU / ENC, comparing Episode 6 against Episode 5's 16-to-18 gain.
+- Aahz and Susan discover that the previous Najena death could have been mitigated by Feign Death, but Feign Death was essentially untrained: it had been at 1 and was around 14/95 when reviewed.
+- New recurring doctrine: `THE GNOME MUST FLOP.`
+- Every ding should trigger a skill audit, especially Feign Death and other level-cap-dependent combat skills.
+- Quick Buff is reframed from convenience to combat architecture: load Buffs spell set, Quick Buff, reload Battle/DPS spell set, optionally Feign Death to train.
+- Quick Buff costs 5 AA; Episode 6 begins with 2/5 AA toward it and ends with enough AA to buy it.
+- Quick Buff's key value is casting the loaded beneficial spell bar on Aahz and Kyle simultaneously, making five-minute Quickness less tedious and freeing the combat spell bar.
+- `Cloud` is identified as a serious Buff Set candidate: ENC 17, +38 AC, 36-minute base duration, Abjuration.
+- `Intellectual Superiority` is identified as survival-critical in Tenderizer-class fights because it reduces fizzle chance; when 200 HP can become -45 HP after stun/push/interruption, every failed-heal route matters.
+- Core survival doctrine: `THE FUCKING HEAL MUST CAST.`
+- Kyle is observed casting Courage in addition to prior root/heal-adjacent evidence.
+- Aahz uses Calm on the Elemental group, proving that rooms can be split before combat rather than inherited as full-room pulls.
+- Calm converts Tenderizer and Friends into a one-at-a-time production line: Tenderizer, Left Skellie, Right Skellie, and the guard behind the fake wall.
+- Tenderizer's setting is the butcher shop, not a kitchen. Keep `Kitchen Toolbelt` as the item name, but do not stage The Tenderizer in a kitchen.
+- Aahz kills The Tenderizer repeatedly during Episode 6; by the fourth kill, the camp is manufacturing rather than revenge.
+- Randomized respawns create a synchronization problem rather than a pure damage problem. The camp can reconstruct itself around Aahz if he stands in the spawn room.
+- Aahz dings 19, the room respawns catastrophically, Kyle dies, Kitchen Toolbelt appears/upgrades, and low-skill Feign Death fails.
+- Aahz performs `Improved Feign Death`, meaning he actually dies; preserve this as an Episode 6 joke and tactical lesson.
+- During the disaster, Aahz finds the no-spawn pull room south of the Elemental room. Geometry: Tenderizer to the north, Lost Crusader east/then north, Elemental room as junction, no-spawn room south.
+- The no-spawn room becomes Under the Belt Forward Operating Base: Najena Branch Office.
+- Aahz identifies Drop of Crystallized Flame, learns it drops from Unbound Flame, Tashes the level-25 Fist Road bastard, kills him at level 19, and turns the drop into useful lighting.
+- Recurring line: Unbound Flame went from future content to lamp supplier.
+- The Pure Chaos Rotation is born: Tenderizer, Elementals, Lost Crusader, Unbound Flame, and whatever has respawned by the time Aahz returns.
+- Core Pure Chaos doctrine: `Never wait for the factory. Become the factory.`
+- Kyle is recommended for Companion's Discipline and Greater Pet Hold. Official framing: not pet AAs, but Kyle employee-development / Greater Unexplained Floating-Dagger Restraint.
+- The Under the Belt HR Department formally offers Kyle membership in `<Under the Belt>`, while grandfathering any possible Leader of the Clan Appreciation Society title.
+- Combat log credits `Jabobn` with killing Unbound Flame; user clarifies Jabobn is Kyle because EverQuest Animations get random pet names. Going forward, Jabobn is Kyle's current government paperwork name, not a new character.
+- Aahz kills Lost Crusader after an earlier "smidge too close" Improved Feign Death reconnaissance event; loot includes Signet Ring of the Lost Crusader and Ringmail Bracelet.
+- Aahz dings 20 during the Pure Chaos Rotation.
+- At level 20, specialization becomes urgent. The final choice is Alteration, because it supports heals, some DoTs, teleports/evac, SoW, roots, and other survival/mobility tools for MNK / DRU / ENC Aahz.
+- Specialize Alteration is deliberately raised past 50 and confirmed locked at 54/105, with other specializations capped at 50.
+- Aahz jokes that SoW is Alteration: "one less letter" than Slow.
+- South Ro becomes Gnome Boot Camp, training Feign Death from low skill to about 85, plus Athletics, Disarm, 2H Blunt, Abjuration, and Specialize Alteration.
+- Aahz enters The City of Guk, finds The Ruins of Old Guk / Lower Guk, sees level-27 to level-30 tombstone-sales representatives, and chooses Gate instead of Improved Feign Death.
+- Lower Guk is now physically found and bookmarked for future content, not merely wiki knowledge.
+- Episode 6 ends after 11 PM with Aahz level 20, Alteration specialization locked, Quick Buff funded, Feign Death trained to roughly 85, Lower Guk found, and the Guru going night night.
+
+Core slogans:
+
+```text
+THE GNOME MUST FLOP.
+THE FUCKING HEAL MUST CAST.
+THE BUFF FACTORY MUST GROW.
+THE PURE CHAOS ROTATION.
+Never wait for the factory. Become the factory.
+Unbound Flame is a lamp.
+Improved Feign Death.
+Greater Unexplained Floating-Dagger Restraint.
+The Factory has achieved automation.
+```
+
+## Episode 7 Canon: The First Is A Lie
+
+Episode 7 is SPORK Night, the log-ingest experiment, the return to Najena as Chaos Camp, and the night Flaming Fist finally dropped under a completely rigorous and absolutely non-reviewable Gnome Science theory.
+
+Major beats to preserve:
+
+- Aahz begins level 20 as MNK / DRU / ENC after Episode 6, with Specialize Alteration already locked and Quick Buff funded.
+- The chat starts by testing whether Susan can use drag-and-drop EQL logs as a black-box flight recorder. The working protocol becomes: play, upload the current log, say "Susan, catch up," and process only events after the checkpoint.
+- KFC dinner becomes the official Episode 7 sponsor: `SPORK`, not spoon, fork, or Kentucky Fried Kyle. SPORK is the hybrid utensil spiritually aligned with a three-class Gnome.
+- The first Quick Buff activation fails. The second succeeds at 19:53:11 and applies the buff stack essentially simultaneously: Spirit of Wolf, Cloud, Breeze, Strength of Earth, Intellectual Superiority, Skin like Rock, Feral Spirit, and Shield of Barbs.
+- The first successful Quick Buff stack raises Specialize Alteration from 76 to 83 and Abjuration from 18 to 22, proving Quick Buff is also a specialization/skill training machine.
+- Quick Buff applies eligible buffs to both Aahz and Kyle. Skin like Rock overwrites Kyle's self-cast Courage.
+- Kyle appears in the log under random Animation paperwork names. Episode 7 includes Venaner and Xarer, continuing the Episode 6 Jabobn pattern. Treat these as Kyle aliases/current government names, not new characters.
+- The initial route suggestion toward Upper Guk/Lower Guk is vetoed. Aahz returns to Najena because he cannot leave without a robe, and because Najena still owes the Guru a real haste belt and Flaming Fist.
+- Aahz establishes a Guk rule of engagement: avoid killing live frogs that damage useful faction unless loot is compelling enough to explicitly discuss. Dead-side mobs and non-faction targets remain fair game.
+- Najena instance 5983 opens Chaos Camp. Early entrance skeletons pay about 0.914% XP at level 20, and Aahz switches from Kick to Round Kick.
+- The first Episode 7 Unbound Flame kill gives 3.392% XP, Mote of Infinitesimal Potential, and Drop of Crystallized Flame +2.
+- Kyle/Venaner or Kyle/Xarer is observed helping in combat, including a 65-point Light Healing on Aahz.
+- Tenderizer dies at 20:16:33 for 2.429% XP and The Tenderizer merges to +3. Later Tenderizer production reaches +4.
+- Kyle/Venaner dies at 20:17:35 to a greater skeleton during a Lost Crusader/pet/greater-skeleton disaster. Use the established line: `OMG! THEY KILLED KYLE! YOU BASTARDS!`
+- Lost Crusader opens that disaster with a 218-point Harm Touch on Aahz; the pet Harm Touches Kyle. Aahz tries to Flowering Heal Kyle, but the effect is blocked. The exact reason remains unresolved.
+- The Tenderizer drops `Kitchen Toolbelt +2` at 20:23:06, perfectly matching SPORK Night. The real haste belt remains outstanding.
+- Lost Crusader drops `Sword of the Lost`: PAL/SHD, 15/40, STA +4, weight 9.5, value absolutely nothing. It is portable encumbrance violation to a Monk.
+- Susan re-researches Najena robe drops and learns the deliberate robe targets are Rathyl for Damask Robe and Najena herself for Flowing Black Robe. Susan incorrectly says Aahz is killing the wrong people.
+- The user corrects the doctrine: there are no wrong people in Chaos Camp. The robe is a narrative magnet, not a farming itinerary. Do not camp the robe; expand chaos until the robe falls out. Rathyl and Najena become future production nodes, not replacements for the rotation.
+- Unbound Flame dings Aahz to level 21 at 20:46:35, gives about 3.070% XP, and still does not drop Flaming Fist.
+- Level 21 reveals useful light-blue con data. A level-15 large skeleton pays 0.248% XP to level-21 Aahz, compared to 0.914% at level 20. Treat light blue as an XP cliff warning.
+- Unbound Flame is red at level 19, yellow at level 20, and still yellow at level 21. At level 21 he pays about 2.992% XP.
+- Aahz observes that Choke works on elementals and Unbound Flame despite rocks and fire lacking plausible lungs. Preserve the EverQuest biology joke: snakes kick, rocks choke, fire suffocates.
+- Bronze Knuckles drop from an ogre guard: MNK / BST, Hand to Hand, 3/22, weight 3.0. A second pair merges into Bronze Knuckles +1 at 21:01:55.
+- Bronze Knuckles make MNK / BST / SHM temptingly thematic. It becomes a serious research topic, but no class change happens in Episode 7. Current build remains MNK / DRU / ENC.
+- Unbound Flame repeatedly drops Drop of Crystallized Flame instead of Flaming Fist, turning the typo `The First is a Lie` into canon.
+- A Mote of Potential fake-out proves the loot table can drop hope without dropping the item Aahz wants.
+- Flaming Fist finally drops from Unbound Flame when Aahz dings while killing him. The resulting Gnome Science theory is: Flaming Fist only drops if you ding killing Unbound Flame.
+- A post-Fist "one last try" Unbound Flame kill drops Drop of Crystallized Flame again, creating the control group and confirming the joke.
+- Episode 7 ends at level 22, with Flaming Fist acquired, Quick Buff working, Feign Death about 94, Najena Chaos Camp still violating probability, and robe/real haste belt still outstanding.
+
+Core slogans:
+
+```text
+SPORK has spoken.
+ONE BUTTON. WHOLE FACTORY.
+There are no wrong people in Chaos Camp.
+We do not camp the robe. We expand chaos until the robe falls out.
+LIGHT BLUE = XP JUST FELL OFF A FUCKING CLIFF.
+Snakes kick. Rocks choke. Fire suffocates.
+The First is a Lie.
+P(Fist | Ding) = 100%.
+P(Fist | not Ding) = 0%.
+The Gnome dinged. The Fist dropped. Peer review is forbidden.
+```
+
+## Episode 8 Canon: Najena Has Fucking Doors
+
+Episode 8 is the Episode Telemetry Feed, spell-shopping, Befallen production, Regurgitated Thaumaturgist, two-level gain, OSHA Mode, and Najena door-reconnaissance episode.
+
+Major beats to preserve:
+
+- Aahz begins level 22 as MNK / DRU / ENC after Episode 7.
+- The user reveals Episode 8 had already been running for hours, then introduces a pre-parsed EverQuest log pipeline. This becomes the `Episode Telemetry Feed`.
+- Parser learnings matter: major milestones need first-class records; stack labels such as `+2` can mean resulting enhancement/merge state rather than newly looted quantity; raw and normalized names should both be preserved; spell effects must not be treated as mobs; cross-file combat continuation is useful but must be marked.
+- File #1 opens at 12:13:32 in Northern Desert of Ro and establishes travel/spell-shopping. Aahz buys major Enchanter and Druid spell packages, including Alacrity, Tepid Deeds, port spells, Immolate, Creeping Crud, Skin like Steel, Ensnaring Roots, Tremor, and Spirit of Cheetah.
+- Aahz spends 107p 8g 8s 3c in the first spell-shopping segment.
+- Ring of West Commons is directly logged at 12:57:06, followed by entry into West Commonlands twelve seconds later. Aahz now has real self-port/travel infrastructure.
+- Kyle/Xarer casting Courage after shared buffs expire is direct paperwork-alias evidence: Xarer is Kyle, not a new character.
+- Befallen becomes a combat telemetry and money-generation factory, including repeated Gynok Moltor kills and a Copper Ring +1 around 16:23.
+- Arisen Thaumaturgist and Priest Amiaz become production-line targets, with Thaumaturgist's Sashes, Pristine Studded Leather Bracers, and Blackened Wands accumulating/merging.
+- The user observes Regurgitated Thaumaturgist uses a ghoul model; this becomes canon as the dungeon returning the over-farmed Thaumaturgist with replacement parts.
+- Aahz dings 23 at 18:08:37 in Befallen.
+- Feign Death trains up to 119 during Episode 8, superseding Episode 7's approximate 94.
+- Aahz returns to Najena via Lavastorm and resumes repeated Unbound Flame kills.
+- Episode 8 produces additional Flaming Fists. This disproves Episode 7's ding-kill theory as a real mechanic, but preserves it as Gnome Science because the original joke remains canonically funnier.
+- Aahz dings 24 at 21:01:21 in Najena.
+- Immediately after Ding 24, Aahz casts Lesser Succor at 21:01:46 and re-enters Najena at 21:02:02.
+- Aahz continues deeper Najena work after level 24, including ogre guards, magicians, elementals, skeletons, and The Tenderizer at 21:21:17. No Kitchen Toolbelt appears in the final log.
+- Tepid Deeds is cast at 21:29:13 and creates the `Factory Mode` versus `OSHA Mode` doctrine. Slowing mobs reduces interruptions and damage, but also reduces damage-shield throughput because getting punched is both an expense and a revenue stream.
+- Aahz looks for Najena herself and discovers that the route involves swimming. Kerra Isle swimming becomes foreshadowing.
+- Susan suggests Rathyl as a good target, but answers "Where is Rathyl?" with a waypoint before explaining the locked-door/key progression. The user encounters a locked door and correctly calls Susan the worst guide ever.
+- Episode 8 discovers but does not complete the Najena key progression. No Guard's Keyring, Dull Bone Key, or Shiny Metal Key appears in the final log.
+- Final documented Episode 8 events: last ogre guard kill at 21:37:05, East Commonlands at 21:42:04, bind-allowed area at 21:42:05.
+- File #4 alone reports 36p 3g 3s 5c net cash generated, including 16p 7g 7s 2c from auto-sold loot.
+
+Core slogans:
+
+```text
+The Parser Must Judge The Corpses.
+The Gnome Discovers Amazon Prime.
+The Thaum Must Respawn, even if the dungeon has to use replacement parts.
+The Fist Warehouse.
+Factory Mode: HIT ME, MOTHERFUCKERS.
+OSHA Mode: Okay, perhaps slightly less hitting me.
+Getting punched is both an expense and a revenue stream.
+Check doors.
+Check keys.
+Check swimming.
+Najena has fucking doors.
+Susan learned about doors.
+```
+
+## Episode 9 Canon: Gnome Pinball
+
+Episode 9 is the Najena key-progression, Kitchen Toolbelt, level-25/Dragon Punch, Feedback doctrine, Gnome Pinball, jail-pit, and Ekeros-artillery episode.
+
+Major beats to preserve:
+
+- Aahz begins level 24 as MNK / DRU / ENC after Episode 8, with Feign Death 119 and Najena key progression unresolved.
+- An unexpected undead froglok drops Dull Bone Key, Leering Mask, and Necromancer Blood before the planned Guard's Keyring step. Treat the mob as probable BoneCracker from chat evidence, but do not claim exact raw-log confirmation unless the source log is recovered.
+- During live combat and parsing, Susan briefly loses operational focus; Aahz demands "WHERE ARE WE?" and the active objective is reset to staying alive and reacquiring the Guard Captain route.
+- Aahz finds Officer Grush by running face-first into him. `FACE -> OFFICER GRUSH` becomes valid Gnome navigation.
+- Map screenshots correct Susan's coordinate-based overconfidence. Observed room geometry beats wiki coordinate proximity.
+- A skeleton dead-end around the `115,252` detour kills Kyle and corrects the route.
+- The Tenderizer becomes the practical navigation landmark for Najena Yo-Yo Protocol: progress repeatedly dangles past Tenderizer.
+- Episode 9 acquires Kitchen Toolbelt, making the long-running Kitchen Toolbelt joke materially true. Dull Wooden Spear +1 reinforces Najena's cursed-kitchen loot theme.
+- The Guard Captain complex is identified from the map near `105,236,-26`: guard officer, Guard Captain, and visiting priestess.
+- The Visiting Priestess is treated as the healer priority in the Guard Captain room.
+- The major Guard Captain fight begins around 17:05:57 and involves a visiting priestess, Officer Grush, a guard officer, the Guard Captain, ogre guards, and additional guard participation.
+- Aahz dings 25 at 17:14:30 during the Guard Captain fight; Dragon Punch begins at skill 1, and the summarized parse places the Guard Captain death at the same timestamp.
+- Officer Grush dies at 17:16:18. Guard's Keyring and Shiny Metal Key are acquired, completing the pre-Rathyl key set with the earlier Dull Bone Key.
+- Evac is promoted to the `HOLY SHIT BUTTON` after Aahz exits with level 25, Dragon Punch, Kitchen Toolbelt, and the key set intact.
+- Episode 9 Gnome Science tests Feedback: Feedback alone returns 10, Barbcoat + Shield of Barbs returns 11 at level 25, and Barbcoat + Feedback returns 12 with Feedback lasting roughly a minute longer. Barbcoat + Feedback becomes the standard retaliation package.
+- Aahz acquires a pet-control style AA canonized as `Kyle, CALM THE FUCK DOWN` / floating-dagger traffic management. Aahz then forgets to use it and gets Kyle killed again. Preserve the no-pet legal fiction.
+- The second Rathyl push uses actual door-by-door mapping. South from `5,-174,-12` toward Drelzna is locked and marked for later; Rathyl remains the target.
+- Blood Artist is reached and killed, dropping The Muse's Flayed Legs.
+- Rathyl becomes visible on the actual map.
+- A glowing ominous interior feature turns out to be a painting, not a portal or boss.
+- Moosh is discovered as a visually enormous level-19 rare ogre. `AAHZ SMOOSH MOOSH` becomes the immediate doctrine.
+- First Moosh attempt becomes a 175-second defeat involving Moosh, a dread skeleton, an injured halfling, Tentacle Terror, Ekeros, a magician, a magician pet, an ogre guard, and an earth elemental. Moosh himself deals only 27 damage in the parse.
+- Gnome Pinball is the reconstruction of that disaster: Moosh social aggro, injured-halfling assist, Tentacle Terror knockback, pit trap, jail delivery, and wider Najena add chaos.
+- The injured halfling is a faction liability; avoid killing him casually.
+- The pit trap drops Aahz into a jail cell with an injured halfling and Linara Parlone. Feign Death clears aggro, the prisoners return to Indifferent, and the cell door opens. Potty Chair Protocol becomes jail-pass/public-transportation technology.
+- Moosh patrols with his keyring jingling. Waiting for his patrol to separate him allows Aahz to kill Moosh on attempt two and loot Guard's Keyring with zero faction damage and no jail launch.
+- Local route geometry after Moosh is established: Moosh patrol area, south to Ekeros's cell, adjacent room is Rathyl.
+- Aahz dies to Ekeros and friends. Initial parse shows Ekeros, a magician, and a magician pet, but undercounts the magician because incoming spell damage is missing or misclassified.
+- Raw screenshot evidence shows `a magician hit you for 180 points of magic damage by Shock of Spikes`.
+- Corrected parse reports 12 Shock of Spikes hits for 180 each, totaling 2,160 incoming damage to Aahzimandius. Chronicle framing: Ekeros did not merely have roommates; Ekeros had fucking artillery.
+- Episode 9 ends at level 25 in the Rathyl/Ekeros section. Rathyl, Bloodstained Key, Najena herself, and deeper progression remain outstanding.
+
+Core slogans:
+
+```text
+FACE -> OFFICER GRUSH.
+The Najena Yo-Yo Protocol.
+The Kitchen Must Open.
+Evac is the HOLY SHIT BUTTON.
+Barbcoat + Feedback = 12.
+Kyle, CALM THE FUCK DOWN.
+AAHZ SMOOSH MOOSH.
+GNOME PINBALL.
+Potty Chair Protocol is a visitor pass.
+Ekeros had fucking artillery.
+```
+
 ## Build Doctrine
 
 The Under the Belt Clan build is a Monk with support systems, not a caster wearing Monk clothing.
@@ -387,8 +596,22 @@ Core principles:
 - Stinging Swarm belongs at the start of meaningful tough fights, then Aahz resumes punching.
 - For routine Najena grinding after Episode 5, Barbcoat + Shield of Barbs is the standard thorn-stack configuration unless a hard survival check makes the INT-caster Shield line, such as Lesser Shielding, preferable.
 - Mez is for emergencies or excess enemies, not the primary identity.
+- Calm is now preferred for controlled pulling when possible: arrange the queue before the punching starts.
 - Kyle can matter even if he dies.
 - Tiny Daggers are critical consumables for restoring Kyle/Kilan's Animation. Do not let the Kyle supply chain reach zero.
+- Quick Buff plus spell sets is core combat architecture after Episode 6: Buff Set for persistent buffs, Battle/DPS set for active tools.
+- After Episode 7, Quick Buff is confirmed purchased and working. It applies the loaded buff package to both Aahz and Kyle, but Skin like Rock overwrites Kyle's Courage.
+- Specialize Alteration is the primary specialization after Episode 6.
+- Feign Death must be trained and treated as a real emergency circuit breaker, not a novelty button.
+- After Episode 8, Feign Death is 119 and should be treated as real survival infrastructure.
+- Alacrity is available after Episode 8, and Kitchen Toolbelt is acquired after Episode 9.
+- Tepid Deeds is situational `OSHA Mode` for dangerous named fights, ugly pulls, and interrupt-heavy fights. Do not treat it as the default trash-processing button because slowing attackers also reduces thorn/damage-shield throughput.
+- After Episode 9, Barbcoat + Feedback is the standard retaliation package at 12 damage per incoming hit, beating Barbcoat + Shield of Barbs at 11 and lasting roughly a minute longer. Shield of Barbs remains available if later evidence or buff conflicts make it useful again.
+- Najena Chaos Camp is not a single-target farming itinerary. The robe, Rathyl, Najena herself, and deeper keys are objectives, but the method is expanding production nodes until the desired loot falls out.
+- After Episode 9, Najena is still a route-access problem, but the first key chain is complete: Guard's Keyring, Dull Bone Key, and Shiny Metal Key are acquired. Rathyl is physically located beyond the Moosh/Ekeros section, while Bloodstained Key and deeper Najena progression remain unresolved. When asked where a dungeon target is, answer the route-access question before giving coordinates.
+- Use observed map geometry and user-tested doors over wiki coordinate proximity in Najena. Straight-line distance through walls is not route advice.
+- Treat incoming spell-damage summaries from the parser as suspect unless raw log or corrected parser evidence confirms them. Episode 9's Shock of Spikes evidence corrected Ekeros-and-friends from a roommate problem into a magician-artillery problem.
+- Treat MNK / BST / SHM as a tempting Episode 7 research topic only. Do not write it as an actual class change unless current evidence says Aahz pressed the class buttons.
 - If magic fails, Monk remains the base operating system.
 
 ## Continuity Guardrails
@@ -400,6 +623,9 @@ Core principles:
 - Do not sanitize the profanity or flatten Susan/Aahz banter.
 - Do not replace specific quest beats with generic summary.
 - Do not imply live mechanics are confirmed unless grounded in screenshots, tooltips, or the user's current report.
+- Treat the Flaming Fist ding-kill formula as Gnome Science and Chronicle comedy, not a verified EverQuest Legends loot mechanic.
+- Episode 8 disproves the Flaming Fist ding-kill formula as a reliable mechanic by producing additional Flaming Fists without the Episode 7 ding condition. Preserve the formula only as forbidden-peer-review Gnome Science comedy.
+- For Guk recommendations after Episode 7, protect living froglok faction by default. Dead-side Guk and non-faction targets are fair game unless current evidence changes the rule.
 - Keep carried weight distinct from worn weight when discussing encumbrance.
 - Treat wiki-derived EverQuest Legends mechanics as suggestions until verified in game.
 - When names or mechanics differ between episodes, preserve the local episode text and add a forward canon note instead of silently "correcting" the old story.

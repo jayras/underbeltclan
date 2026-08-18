@@ -43,6 +43,14 @@ Episode 5:
 
 - `episode-5/images/episode-5-hero-tenderizer-factory.png`
 
+Episode 6:
+
+- `episode-6/images/fire-elemental-blob-study.png`
+- `episode-6/images/fire-elemental-underbelt-rendition-study.png`
+- `episode-6/images/fire-elemental-pissed-flipoff-study.png`
+- `episode-6/images/fire-elemental-underbelt-pareidolia-study.png`
+- `episode-6/images/episode-6-hero-candidate-underbelt-blob.png` is a non-final study because The Tenderizer was staged in a kitchen/workshop instead of the butcher shop.
+
 Screenshots and UI captures are also part of the publication language, especially for proof-of-absurdity beats such as tooltips, faction messages, guild tags, and quest text.
 
 Episode 1 had no images. When preserving or republishing Episode 1, do not add image placeholders. Retrospective art can be commissioned later, but it should be intentional and labeled as retrospective.
@@ -88,6 +96,8 @@ Visual treatment:
 Do not make Kyle's nature too clean. He can read as an Enchanter Animation, an invisible wet person, or the same impossible non-pet under a suspicious effect, as long as Aahz's plausible deniability survives.
 
 For historical Episode 1-2 scenes, it is acceptable to depict the original helper joke as a water-like Magician companion if the scene is specifically from that era. For forward continuity, Kyle should usually be floating weapons or an ambiguous invisible figure, with hints that he may still be the suspicious wet non-pet.
+
+Episode 6-7 logs may call Kyle by random Animation names such as Jabobn, Venaner, or Xarer. Visuals should treat those as paperwork aliases for the same legally deniable floating-dagger associate, not as separate characters.
 
 ## Steve
 
@@ -138,20 +148,41 @@ Useful recurring image concepts:
 
 Najena visuals should emphasize:
 
-- Dark stone dungeon rooms, torchlight, kitchens/workrooms, skeletons, elementals, and cramped high-risk pulls.
+- Dark stone dungeon rooms, torchlight, butcher-shop spaces, skeletons, elementals, and cramped high-risk pulls.
 - Aahz as tiny, purple, grey-bunned, grey-bearded, and stubbornly Monk-first even when wearing shiny caster-legal robes.
 - Green thorn magic around the Gnome when the joke is about damage-shield doctrine.
-- The Tenderizer as a level-22 named-camp centerpiece: meat-tenderizer hammers, Kitchen Toolbelt, repeated weapon drops, and factory repetition.
+- The Tenderizer as a level-22 named-camp centerpiece in a butcher shop: meat-tenderizer hammers, Kitchen Toolbelt, repeated weapon drops, and factory repetition.
+- Episode 7 SPORK Night motifs: a mundane spork treated as ceremonial equipment, Kitchen Toolbelt +2 as utensil-adjacent sponsorship fulfillment, and Aahz looking indignant that cookware keeps arriving instead of couture.
+- Unbound Flame / Flaming Fist motifs: sentient fire, orange Drops of Crystallized Flame piling up like geological disappointment, a red/orange Flaming Fist as the actual weapon prize, and chalkboard-style Gnome Science only in captions/prose, not baked as text into images.
+- Episode 8 motifs: Episode Telemetry Feed/log parser as industrial instrumentation, spell-shopping receipts and self-port infrastructure, Regurgitated Thaumaturgist as a ghoul/replacement-parts consequence of over-farming, Flaming Fist overproduction/Fist Warehouse, Tepid Deeds as OSHA Mode slowing the factory, and Najena/Rathyl locked-door key progression as the next real dungeon problem.
+- Episode 9 motifs: actual key progression through Guard's Keyring / Dull Bone Key / Shiny Metal Key, Kitchen Toolbelt finally acquired, level-25 Dragon Punch during the Guard Captain fight, Barbcoat + Feedback retaliation magic, Kyle-control failure, Moosh as a huge level-19 rare ogre, Gnome Pinball with Tentacle Terror knockback and a pit trap, jail-cell Feign Death diplomacy with an injured halfling and Linara Parlone, and Ekeros backed by magician Shock of Spikes artillery.
+- Elemental visual rule: do not put expressive heads, faces, eyes, or mouths on ordinary elementals. Episode 6/7 allowed an occasional pareidolia/expressive-face exception as a specific joke, but it is not the default visual language and should not be repeated casually.
+- Bronze Knuckles motifs: ogre-guard loot, hand-to-hand knuckles, Kung Fu item temptation, and MNK/BST/SHM as a whispered build temptation rather than a visual class change.
 - Kyle as two floating bronze daggers or a faint invisible assistant nearby; preserve ambiguity and do not turn him into a cleanly defined pet.
 - Tiny Daggers as reagent logistics: empty pouch, spilled miniature daggers, or vendor/supply-chain evidence when the joke is the Kyle shortage.
 
 Useful recurring image concepts:
 
 - Aahz holding The Tenderizer after killing The Tenderizer.
-- Aahz wearing the Kitchen Toolbelt while surrounded by repeated Tenderizer hammers.
+- Aahz wearing the Kitchen Toolbelt while surrounded by repeated Tenderizer hammers in the butcher shop.
 - Kyle's floating daggers hovering behind Aahz as if supervising without admitting employment status.
 - Aahz at Shady Swashbuckler with an absurd Tiny Dagger purchase.
 - Aahz standing still after disaster while the UI reports Athletics 83.
+- Aahz in Najena holding a spork as if it were a sacred weapon while wearing or being offered Kitchen Toolbelt +2.
+- Aahz half-buried in orange Drops of Crystallized Flame while Unbound Flame refuses to produce Flaming Fist.
+- Aahz triumphantly receiving Flaming Fist at the exact moment of a level ding, with the scene framed as absurd Gnome Science rather than a clean heroic victory.
+- Aahz holding Bronze Knuckles while suspiciously contemplating the future, with Kyle's floating daggers hovering nearby and Susan's plausible-deniability problem implied.
+- Aahz outside Najena under the NAJENA sign with two earth elementals in the doorway as production-node receptionists.
+- Aahz at a glowing absurd log-parser console while Befallen loot, dings, and corpse telemetry scroll by.
+- Regurgitated Thaumaturgist returning as a ghoul with visible replacement-parts comedy after too many factory cycles.
+- Aahz casting Tepid Deeds while the thorn-damage factory slows down and enemies become safer but less profitable.
+- Aahz blocked by a locked Najena door with key-route evidence implied, Kyle's floating daggers hovering nearby, and the Gnome visibly indignant.
+- Aahz dinging 25 in the middle of the Guard Captain room as Dragon Punch energy flares and keys scatter from defeated ogre management.
+- Aahz holding Kitchen Toolbelt with The Tenderizer and other kitchen/household loot around him, as if Najena has become a cursed restaurant supply warehouse.
+- Gnome Pinball: Tentacle Terror knockback launching a tiny purple Gnome through cramped Najena architecture toward a pit trap, with the chaos readable but not cluttered.
+- Aahz in a jail cell with an injured halfling and Linara Parlone after Feign Death, the cell door open, the prisoners baffled and nonhostile.
+- Moosh as an oversized ogre whose visual scale dwarfs Aahz, but whose scene should preserve the joke that the real threat is the surrounding architecture and adds.
+- Ekeros room danger: Ekeros as route obstacle while a magician's Shock of Spikes artillery is the true lethal threat.
 
 ## Root Brell Visuals
 
@@ -178,6 +209,11 @@ Use screenshots when the comedy depends on the actual UI:
 - Exact item values.
 - Exact spell durations.
 - Exact level or skill readouts.
+- Exact XP percentage and con-color evidence, especially Episode 7's light-blue XP cliff.
+- Loot windows proving repeated Drop of Crystallized Flame, Mote of Potential fake-outs, Flaming Fist, Bronze Knuckles, or zero-value items.
+- Parser/milestone summaries when the comedy depends on machine-readable telemetry: dings, spell shopping costs, stack semantics, Feign Death 119, Flaming Fist replication failures, and final East Commonlands/bind timestamps.
+- Door/key/swimming evidence in Najena when the comedy depends on Susan giving a destination before proving the route is physically reachable.
+- Episode 9 map screenshots, key loot windows, Feedback damage tests, Gnome Pinball parse evidence, jail/faction state, and raw Shock of Spikes combat text should be preserved because the comedy depends on exact UI evidence and parser correction.
 
 When reviewing screenshots, inspect small UI text carefully. Zoom or crop before stating exact numbers.
 
